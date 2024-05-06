@@ -1,0 +1,8 @@
+engine=Python
+option.model_id={{ model_id }}
+option.tensor_parallel_degree=1
+option.max_rolling_batch_size=16
+option.rolling_batch=vllm
+option.task=text-generation
+option.dtype=fp16
+option.max_model_len=2048
