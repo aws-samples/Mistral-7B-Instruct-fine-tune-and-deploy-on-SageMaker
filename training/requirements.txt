@@ -1,4 +1,4 @@
-transformers==4.38.1 
+transformers==4.50.0 
 datasets==2.17.1 
 peft==0.8.2 
 bitsandbytes==0.42.0 
